@@ -1,1 +1,6 @@
+Chrun means customer leaving the company.
+so from this dataset can we identify customers who are likely to leave?
 
+Why this is important?
+1. Acuiring customers is expensive.
+2. Retaining customers increases profit.
